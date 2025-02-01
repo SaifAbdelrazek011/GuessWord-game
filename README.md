@@ -69,7 +69,7 @@ The game is a simple word-guessing game. Choose a difficulty level and number of
    ```bash
    npx live-server
    ```
-   - The game will open automatically in your browser at `[https://saifabdelrazek011.github.io/GuessWord-game/]`.  
+   - The game will open automatically in your browser at `https://saifabdelrazek011.github.io/GuessWord-game/`.  
 
 5. **Start Playing!**  
    - Toggle themes with the 🌙/☀️ icon.  
