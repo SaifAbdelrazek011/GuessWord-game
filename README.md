@@ -31,8 +31,6 @@ The game is a simple word-guessing game. Choose a difficulty level and number of
 │   └── Main.js
 ├── src/                     # TypeScript source code
 │   └── Main.ts              # Core game logic
-├── [Arabic] HTML_CSS_       # Improvement ideas (Arabic/English)
-│   └── # ideas for improving.txt
 ├── index.html               # Main HTML entry point
 ├── style.css                # CSS styling
 ├── tsconfig.json            # TypeScript configuration
@@ -71,7 +69,7 @@ The game is a simple word-guessing game. Choose a difficulty level and number of
    ```bash
    npx live-server
    ```
-   - The game will open automatically in your browser at `http://localhost:8080`.  
+   - The game will open automatically in your browser at `https://saifabdelrazek011.github.io/GuessWord-game/`.  
 
 5. **Start Playing!**  
    - Toggle themes with the 🌙/☀️ icon.  
@@ -85,14 +83,6 @@ The game is a simple word-guessing game. Choose a difficulty level and number of
 - **Modify Game Logic**: Edit `src/Main.ts` and recompile with `tsc`.  
 - **Update Icons**: Replace `moon.png` or `sun.png` in the `dark-light` folder.  
 - **Change Styles**: Edit `style.css` for UI adjustments.  
-
----
-
-## 🤝 Contributing  
-1. Fork the repository.  
-2. Add improvements (new features, bug fixes, etc.).  
-3. Submit a pull request.  
-4. Check `[Arabic] HTML_CSS_/# ideas for improving.txt` for inspiration.  
 
 ---
 
