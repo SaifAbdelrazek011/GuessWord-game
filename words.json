@@ -1,0 +1,27 @@
+{
+  "easy": {
+    "fruits": ["Banana", "Cherry", "Tomato", "Mangos", "Papaya", "Melons"],
+    "animals": ["Donkey", "Jaguar", "Pigeon", "Weasel", "Beagle", "Ferret"],
+    "countries": ["France", "Sweden", "Turkey", "Brazil", "Latvia", "Poland"],
+    "colors": ["Purple", "Orange", "Yellow", "Indigo", "Silver", "Maroon"]
+  },
+  "medium": {
+    "programming": ["Python", "Kotlin", "Groovy", "Pascal", "Cobols", "Reacts"],
+    "movies": ["Casper", "Frozen", "Avatar", "Rescue", "Hunger", "Fences"],
+    "celebrities": ["Bieber", "Keaton", "Kidman", "Gibson", "Lennon", "Turner"],
+    "sports": ["Soccer", "Boxing", "Skiing", "Racing", "Hockey", "Rowing"]
+  },
+  "hard": {
+    "programming": [
+      "Elixir",
+      "Prolog",
+      "Rustic",
+      "Cobols",
+      "Reacts",
+      "Fortran"
+    ],
+    "movies": ["Casper", "Frozen", "Rescue", "Hunger", "Fences", "Brutal"],
+    "scientists": ["Darwin", "Newton", "Kelvin", "Lister", "Curium", "Hubble"],
+    "elements": ["Silver", "Copper", "Oxygen", "Sulfur", "Radium", "Carbon"]
+  }
+}
