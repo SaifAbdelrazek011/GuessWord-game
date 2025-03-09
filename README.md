@@ -1,8 +1,6 @@
 # WordGuess Game 🌟  
 **By [Saif Abdelrazek](https://github.com/SaifAbdelrazek011)**  
 
-This is the last game made by me in my journey to improve my logical thinking. What am I going to do now? Maybe something more interesting: I may learn mobile development; I don't know. But for now, this is the last ship by me in HighSeas. I have started working for the competition for only 2 weeks, but I am happy for that journey. That's all I want to say. Thanks, for your listening. Let's talk about the project.
-
 The game is a simple word-guessing game. Choose a difficulty level and number of trials, then start. You have two hints for every game. I have checked that you could continue playing the game without reloading the page. The game is responsive to make you able to test with different devices. The differences between the difficulties are some categories and the word hardness level. All the words are 6 letters to make it not easy or hard to find it out. And finally, don't forget to have fun.
 
 
