@@ -3,6 +3,8 @@
 
 The game is a simple word-guessing game. Choose a difficulty level and number of trials, then start. You have two hints for every game. I have checked that you could continue playing the game without reloading the page. The game is responsive to make you able to test with different devices. The differences between the difficulties are some categories and the word hardness level. All the words are 6 letters to make it not easy or hard to find it out. And finally, don't forget to have fun.
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SaifAbdelrazek011/speed-typing-game/blob/main/LICENSE)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9%2B-3178C6.svg)
 
 ---
 
